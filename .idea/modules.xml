@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libs/android.libs.iml" filepath="$PROJECT_DIR$/.idea/modules/libs/android.libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libs/arcore/android.libs.arcore.iml" filepath="$PROJECT_DIR$/.idea/modules/libs/arcore/android.libs.arcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libs/gvr/android.libs.gvr.iml" filepath="$PROJECT_DIR$/.idea/modules/libs/gvr/android.libs.gvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memoryleaktest/android.memoryleaktest.iml" filepath="$PROJECT_DIR$/.idea/modules/memoryleaktest/android.memoryleaktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetest/android.nativetest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetest/android.nativetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/releasetest/android.releasetest.iml" filepath="$PROJECT_DIR$/.idea/modules/releasetest/android.releasetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/renderertest/android.renderertest.iml" filepath="$PROJECT_DIR$/.idea/modules/renderertest/android.renderertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viroar/android.viroar.iml" filepath="$PROJECT_DIR$/.idea/modules/viroar/android.viroar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/virocore/android.virocore.iml" filepath="$PROJECT_DIR$/.idea/modules/virocore/android.virocore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viroreact/android.viroreact.iml" filepath="$PROJECT_DIR$/.idea/modules/viroreact/android.viroreact.iml" />
+    </modules>
+  </component>
+</project>
